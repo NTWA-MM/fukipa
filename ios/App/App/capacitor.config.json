@@ -1,0 +1,11 @@
+{
+	"appId": "ionic.fukipa",
+	"appName": "fukipa",
+	"webDir": "dist",
+	"packageClassList": [
+		"AppPlugin",
+		"HapticsPlugin",
+		"KeyboardPlugin",
+		"StatusBarPlugin"
+	]
+}
